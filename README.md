@@ -1,1 +1,4 @@
-# ml_cat_dogs_lab
+# Cat or dog?
+## Image classification with logistic regression
+
+Image classification lab
